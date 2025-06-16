@@ -1,0 +1,11 @@
+clone this and 
+
+
+ Alternative কমান্ড ব্যবহার করুন
+python -m streamlit run stock_dashboard.py
+
+
+
+
+অথবা (যদি Python 3 ব্যবহার করেন):
+py -m streamlit run stock_dashboard.py
